@@ -1,0 +1,9 @@
+streamlit
+transformers
+torch
+sumy
+beautifulsoup4
+requests
+lxml
+nltk
+tokenisers
